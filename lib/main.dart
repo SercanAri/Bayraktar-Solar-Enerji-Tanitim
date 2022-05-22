@@ -78,21 +78,22 @@ class MyHomePageState extends State<MyHomePage> {
   Theme bottomNavMenu() {
     return Theme(
       data: ThemeData(
-          canvasColor: Colors.cyan.shade100, primaryColor: Colors.orangeAccent),
+          canvasColor: Colors.cyan.shade100,
+          primaryColor: Color.fromARGB(255, 139, 83, 8)),
       child: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
               icon: Icon(Icons.home),
               label: 'Ana Sayfa',
-              backgroundColor: Colors.blue),
+              backgroundColor: Color.fromARGB(255, 61, 115, 241)),
           BottomNavigationBarItem(
               icon: Icon(Icons.stacked_line_chart),
               label: 'Line Chart',
-              backgroundColor: Colors.red),
+              backgroundColor: Color.fromARGB(255, 190, 63, 124)),
           BottomNavigationBarItem(
               icon: Icon(Icons.pie_chart),
               label: 'Pie Chart',
-              backgroundColor: Colors.purple),
+              backgroundColor: Color.fromARGB(255, 163, 70, 179)),
         ],
         type: BottomNavigationBarType.shifting,
         currentIndex: secilenMenuItem,

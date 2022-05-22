@@ -21,7 +21,10 @@ class AnaSayfaState extends State<AnaSayfa> {
           'Biz Kimiz',
           'Operasyonel mükemmeliyet ile özel durumlara özel çözümler üreten, Solar enerji konusunda uzman “çözüm ortağınız”.',
           false),
-      Veri('Projelerimiz', 'Bitmeyen enerji kaynağınız Bayraktar Solar Enerji farkıyla ve gururla siz değerli müşterimizle gerçekleştirdiğimiz solar projelerimiz. ', false),
+      Veri(
+          'Projelerimiz',
+          'Bitmeyen enerji kaynağınız Bayraktar Solar Enerji farkıyla ve gururla siz değerli müşterimizle gerçekleştirdiğimiz solar projelerimiz. ',
+          false),
       Veri('Misyonumuz', 'Misyonumuz', false),
       Veri('Vizyonumuz', 'Vizyonumuz', false),
       Veri(
@@ -31,7 +34,10 @@ class AnaSayfaState extends State<AnaSayfa> {
       Veri('Telefon', '0850 303 64 64', false),
       Veri('E-Mail', 'info@bayraktarsolar.com', false),
       Veri('IK E-Mail', 'ik@bayraktarsolar.com', false),
-      Veri('Aydınlık Yatırımlara ', 'Çevreci enerji kaynakları ile doğa dostu elektirik üretimi yapan sizlerin her zaman yanınızdayız', false),
+      Veri(
+          'Aydınlık Yatırımlara ',
+          'Çevreci enerji kaynakları ile doğa dostu elektirik üretimi yapan sizlerin her zaman yanınızdayız',
+          false),
     ];
   }
 
@@ -46,7 +52,7 @@ class AnaSayfaState extends State<AnaSayfa> {
           children: <Widget>[
             Container(
               color:
-                  index % 2 == 0 ? Colors.red.shade200 : Colors.yellow.shade300,
+                  index % 2 == 0 ? Colors.grey.shade300 : Colors.grey.shade300,
               height: 100,
               width: double.infinity,
               child: Padding(
