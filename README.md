@@ -2,10 +2,6 @@
 
 A new Flutter project.
 
-<img src="https://i.hizliresim.com/1a28u68.png" width="250" height="500">
-<img src="https://i.hizliresim.com/6uce0b6.png" width="250" height="500">
-<img src="https://i.hizliresim.com/17uog10.png" width="250" height="500">
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
