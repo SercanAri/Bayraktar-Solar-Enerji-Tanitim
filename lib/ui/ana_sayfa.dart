@@ -25,8 +25,8 @@ class AnaSayfaState extends State<AnaSayfa> {
           'Projelerimiz',
           'Bitmeyen enerji kaynağınız Bayraktar Solar Enerji farkıyla ve gururla siz değerli müşterimizle gerçekleştirdiğimiz solar projelerimiz. ',
           false),
-      Veri('Misyonumuz', 'Misyonumuz', false),
-      Veri('Vizyonumuz', 'Vizyonumuz', false),
+      Veri('Misyonumuz', 'Operasyonel mükemmeliyet ile özel durumlara özel çözümler üreten, solar enerji konusunda uzman “çözüm ortağınız” uzun yıllar enerji, otomasyon ve yazılım sektöründeki bilgi ve deneyimimizi, 2010 yılından bugünümüze solar enerji sektöründe devam ettirdik ve bir çok ilke imza attık.', false),
+      Veri('Vizyonumuz', 'Operasyonel mükemmeliyet ile özel durumlara özel çözümler üreten, solar enerji konusunda uzman “çözüm ortağınız” uzun yıllar enerji, otomasyon ve yazılım sektöründeki bilgi ve deneyimimizi, 2010 yılından bugünümüze solar enerji sektöründe devam ettirdik ve bir çok ilke imza attık.', false),
       Veri(
           'İletişim / Adresimiz',
           'Merkez/Ofis Adresimiz;Yeni Bati Mah. 2399. sok. no:2 Yenimahalle/Ankara',

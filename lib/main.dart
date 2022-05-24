@@ -85,7 +85,7 @@ class MyHomePageState extends State<MyHomePage> {
           BottomNavigationBarItem(
               icon: Icon(Icons.home),
               label: 'Ana Sayfa',
-              backgroundColor: Color.fromARGB(255, 61, 115, 241)),
+              backgroundColor: Color.fromARGB(255, 65, 115, 231)),
           BottomNavigationBarItem(
               icon: Icon(Icons.stacked_line_chart),
               label: 'Line Chart',
