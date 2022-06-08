@@ -1,4 +1,4 @@
-# Şirket Tanıtım 
+# Bayraktar Solar Enerji - Şirket Tanıtım
 
 <img src="https://i.hizliresim.com/45rfgb1.png" width="250" height="500">
 <img src="https://i.hizliresim.com/hy0219j.png" width="250" height="500">
